@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.red {
+  color: red;
+}
+
+section {
+  width: 300px;
+  padding: 30px;
+  border: 1px solid #ccc;
+}
+
+.error {
+  color: red;
+  font-size: small;
+  padding: 10px;
+}
